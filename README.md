@@ -2,19 +2,19 @@
 StockHawk for Project 3 of  Udacity Android Nanodegree.      
 An Android for monitoring the status of stocks
 
-##Features
+## Features
  - Retention of data when offline
  - Localisation support
  - Accessibility support for screen readers
  - Widget for easy access to stocks
  - Visualization of stock status through graphs
 
-##Screenshots
+## Screenshots
 <img src="https://raw.githubusercontent.com/SubhrajyotiSen/StockHawk/master/screenshots/1" width="360">
 <img src="https://raw.githubusercontent.com/SubhrajyotiSen/StockHawk/master/screenshots/2" width="360">
 <img src="https://raw.githubusercontent.com/SubhrajyotiSen/StockHawk/master/screenshots/3" width="360">     
 
-##License
+## License
 
 
     The MIT License
